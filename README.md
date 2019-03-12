@@ -1,0 +1,2 @@
+# thanos
+Funny thanos utility
